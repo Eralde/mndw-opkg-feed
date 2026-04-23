@@ -1,9 +1,9 @@
 Package: mndw
-Version: 0.1.7
+Version: 0.1.8
 Depends: lighttpd, lighttpd-mod-proxy, lighttpd-mod-rewrite
 Section: web
 Architecture: all
-Filename: mndw_0.1.7_all.ipk
-Size: 261250
-SHA256sum: 9c1a227bd26dbefefb5047f8a98945ffb058ae16eb3358b6f84c0bf4e3bd60d0
+Filename: mndw_0.1.8_all.ipk
+Size: 261417
+SHA256sum: 15f4fbbd98f429f5047d6831e8a60821b097b0f379b04d9ff61dbbc9947247c9
 Description: Modular plugin-based dashboard for Keenetic devices
