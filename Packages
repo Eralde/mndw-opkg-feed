@@ -4,6 +4,6 @@ Depends: lighttpd, lighttpd-mod-proxy, lighttpd-mod-rewrite
 Section: web
 Architecture: all
 Filename: mndw_0.1.9_all.ipk
-Size: 266861
-SHA256sum: cd775001ad8f8e58026f8f46b1413cddccc79b2eeea0a92d330140633c01c1c2
+Size: 266958
+SHA256sum: c24fbb33df77c3f44d899e1278608e28dec14e69855fb014c21739caf6c08945
 Description: Modular plugin-based dashboard for Keenetic devices
