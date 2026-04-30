@@ -1,9 +1,9 @@
 Package: mndw
-Version: 0.1.21
+Version: 0.1.22
 Depends: lighttpd, lighttpd-mod-proxy, lighttpd-mod-rewrite, lighttpd-mod-cgi, unzip, jq
 Section: web
 Architecture: all
-Filename: mndw_0.1.21_all.ipk
-Size: 373164
-SHA256sum: 94baf776b94658cb245932fb1d59c3ac129a93d0c1b6541557833303d165c5bb
+Filename: mndw_0.1.22_all.ipk
+Size: 375411
+SHA256sum: 46719db62818f6eca114ee8d5b3d4aaac6a89cb86bd735cd4611a9fc36a31032
 Description: Modular plugin-based dashboard for Keenetic devices
