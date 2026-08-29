@@ -4,8 +4,8 @@ Depends: lighttpd, lighttpd-mod-proxy, lighttpd-mod-rewrite, lighttpd-mod-alias
 Section: web
 Architecture: aarch64-3.10
 Filename: mndw_0.0.1_aarch64-3.10.ipk
-Size: 10679514
-SHA256sum: ea000f9f09c43f39eb2c85e2a03aa6de398b43add9e6b818c5be71a88c48bdf8
+Size: 10701190
+SHA256sum: 605f451e1be0df6ea2f0355facf624770b736071602f949b170dac476affa6e1
 Description: Modular plugin-based dashboard served by lighttpd.
 
 Package: mndw
@@ -14,8 +14,8 @@ Depends: lighttpd, lighttpd-mod-proxy, lighttpd-mod-rewrite, lighttpd-mod-alias
 Section: web
 Architecture: mips-3.4
 Filename: mndw_0.0.1_mips-3.4.ipk
-Size: 10889058
-SHA256sum: 6db7b776a3ef52c4a93942c10506a216f7e3d842f283536e75d976534cbce8bc
+Size: 10916342
+SHA256sum: 4b8ecf69fad0bb67724de149fdf466db673fc168418cddd56a95635040a75d6e
 Description: Modular plugin-based dashboard served by lighttpd.
 
 Package: mndw
@@ -24,6 +24,6 @@ Depends: lighttpd, lighttpd-mod-proxy, lighttpd-mod-rewrite, lighttpd-mod-alias
 Section: web
 Architecture: mipsel-3.4
 Filename: mndw_0.0.1_mipsel-3.4.ipk
-Size: 10812218
-SHA256sum: 4dff2d6f27a065aea63ca2b82d667c73ead2d40cfd88c8510e771c80e400ce68
+Size: 10841236
+SHA256sum: a821b759f89d118387767f57981836974659ccdf9b995bdac415fd9a8d958eab
 Description: Modular plugin-based dashboard served by lighttpd.
