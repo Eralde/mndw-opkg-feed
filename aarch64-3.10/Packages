@@ -1,8 +1,9 @@
 Package: mndw
-Version: 0.1.5
+Version: 0.1.6
 Section: web
 Architecture: aarch64-3.10
-Filename: mndw_0.1.5_aarch64-3.10.ipk
-Size: 11396462
-SHA256sum: 63a03d10c041aabd41067ee6837bc35ae30dec7478ca744483fbe6b90bb7b7f8
+Depends: ttyd
+Filename: mndw_0.1.6_aarch64-3.10.ipk
+Size: 11400007
+SHA256sum: 92271df09958c0c7cce43e5a8b773dedcd144575f5b6b02c7360f425296140da
 Description: Modular plugin-based dashboard served by mndwd.
