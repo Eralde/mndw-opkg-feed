@@ -1,9 +1,9 @@
 Package: mndw
-Version: 0.2.0
+Version: 0.3.0
 Section: web
 Architecture: mipsel-3.4
 Depends: ttyd, wget-ssl
-Filename: mndw_0.2.0_mipsel-3.4.ipk
-Size: 11484009
-SHA256sum: 751fe93a0c5ef2656e158f3a3b0e6b7beaad9c78680251347b877d4928210c10
+Filename: mndw_0.3.0_mipsel-3.4.ipk
+Size: 11506295
+SHA256sum: 2a390013165b884aa6d58e57ddac4492496b22ec9e3c674b306f3a8bbb6a6d99
 Description: Modular plugin-based dashboard served by mndwd.
